@@ -1,0 +1,6 @@
+{
+  "name": "GreenBite",
+  "description": "Ứng dụng đặt đồ ăn Healthy, gói ăn theo tuần và trợ lý dinh dưỡng AI bằng tiếng Việt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
